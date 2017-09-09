@@ -1,0 +1,17 @@
+{
+  "name": "gladys-dashboardusers",
+  "version": "0.0.1",
+  "description": "Gladys hooks for the view the users in the dashboard.",
+  "main": "index.js",
+  "directories": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pjap93/gladys-dashboardusers"
+  },
+  "author": "J@P",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+  }
+}
